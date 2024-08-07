@@ -14,9 +14,9 @@ To compile this project:
 1. Clone the github repository to your device
 2. Make sure that all necessary applications are downloaded
 3. Navigate to the jetson-inference/python/training/classification directory
-4. Set the NET and DATASET variables like so: 
-  a. NET = models/traffic_light
-  b. DATASET = data/traffic_light
-5. Run the imagenet on the chosen image in the test folder like so:
-6. imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt $DATASET/test/<color-folder>/<file-name> <new-file-name>.jpg
-7. Open the <new-file-name>.jpg image you created. It will be in the classification folder!
+4. Type "python3 traffic_light_driver.py"
+5. Complete the inputs
+    a. The first input should be one of these [red,green,yellow]
+    b. The second should be a .jpg file (check the test files and choose one)
+    c. The third should also be a .jpg file (with the name of your choosing)
+6. Open the <new-file-name>.jpg image you created. It will be in the classification folder!
