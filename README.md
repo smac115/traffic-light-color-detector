@@ -33,3 +33,7 @@ python3 traffic_light_driver.py
  c. The third should also be a .jpg file (with the name of your choosing)
 6. Open the .jpg image you created. It will be in the classification folder!
 
+
+
+https://github.com/user-attachments/assets/d99e57b9-c662-4bab-a2b7-73692cd77684
+
