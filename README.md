@@ -3,6 +3,7 @@
 **AI Traffic Light Color Classifier**
 
 Welcome to the AI Traffic Light Color Detector! This project is designed to classify the color of traffic lights from static images using advanced deep learning techniques supported by the NVIDIA Jetson Nano. This tool provides accurate color classification, making it useful for analyzing traffic light images in various applications such as traffic monitoring and autonomous vehicle systems.
+![red](https://github.com/user-attachments/assets/c53686f7-f9f0-4dc4-a7f5-8e707c2c6fd5)
 
 
 **Supported by the jetson-inference repository, this project features:**
