@@ -6,6 +6,7 @@ Welcome to the AI Traffic Light Color Detector! This project is designed to clas
 
 
 **Supported by the jetson-inference repository, this project features:**
+
 -Image-Based Classification
 -High Accuracy
 -Googlenet and Resnet supported learning model
